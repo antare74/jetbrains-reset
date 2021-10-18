@@ -1,4 +1,4 @@
-# Jetbrains reset Trial Linux, include (PHPSTORM,WEBSTORM, PYCHARM, RIDER, CLION, DATALORE, DATAGRIP, RUBYMINE, APPCODE, GOLAND)
+# Jetbrains reset Trial Linux, include (PHPSTORM,WEBSTORM, PYCHARM, RIDER, CLION, DATALORE, DATAGRIP, RUBYMINE, APPCODE, GOLAND) work for version < 2021.2
 ## This script allow linux user to reset trial license in 3 steps.
 #### 1. clone this repository
 #### 2. cd to downloaded repository
